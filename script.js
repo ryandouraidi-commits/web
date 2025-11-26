@@ -62,7 +62,7 @@ document.addEventListener("DOMContentLoaded", () => {
         timeZone: 'Africa/Casablanca'
       };
       const rabatTime = now.toLocaleTimeString('en-US', options);
-      rabatTimer.textContent = `Fez right now: ${rabatTime}`;
+      rabatTimer.textContent = `Rabat right now: ${rabatTime}`;
     }
 
     updateRabatTime();
@@ -317,4 +317,5 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 });
+
 
