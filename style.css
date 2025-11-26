@@ -437,16 +437,6 @@ nav {
     transition: letter-spacing 0.3s ease-in-out;
 }
 
-.logo1:hover {
-  letter-spacing: 0.075rem;
-  transition: letter-spacing 0.3s ease-in-out;
-}
-
-.logo2:hover {
-  letter-spacing: 0.125rem;
-  transition: letter-spacing 0.3s ease-in-out;
-}
-
 .logo2 {
   text-decoration: none;
   color: #1c1c1b;
@@ -590,4 +580,5 @@ h1 {
   .mf-cursor{
     display: none;
   }
+
 }
