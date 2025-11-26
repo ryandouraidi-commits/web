@@ -1,0 +1,270 @@
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('fonts/subset-BebasNeue-Regular.woff2') format('woff2'),
+        url('fonts/subset-BebasNeue-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'false';
+    src: url('fonts/subset-false.woff2') format('woff2'),
+        url('fonts/subset-false.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'false';
+    src: url('fonts/subset-false.woff2') format('woff2'),
+        url('fonts/subset-false.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Khand';
+    src: url('fonts/subset-Khand-Light.woff2') format('woff2'),
+        url('fonts/subset-Khand-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Khand';
+    src: url('fonts/subset-Khand-Bold.woff2') format('woff2'),
+        url('fonts/subset-Khand-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'false';
+    src: url('fonts/subset-false.woff2') format('woff2'),
+        url('fonts/subset-false.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Khand';
+    src: url('fonts/subset-false.woff2') format('woff2'),
+        url('fonts/subset-false.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'false';
+    src: url('fonts/subset-false.woff2') format('woff2'),
+        url('fonts/subset-false.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Khand';
+    src: url('fonts/subset-false.woff2') format('woff2'),
+        url('fonts/subset-false.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Khand';
+    src: url('fonts/subset-Khand-Medium.woff2') format('woff2'),
+        url('fonts/subset-Khand-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Khand';
+    src: url('fonts/subset-false.woff2') format('woff2'),
+        url('fonts/subset-false.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Khand';
+    src: url('fonts/subset-false.woff2') format('woff2'),
+        url('fonts/subset-false.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Khand';
+    src: url('fonts/subset-Khand-SemiBold.woff2') format('woff2'),
+        url('fonts/subset-Khand-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'false';
+    src: url('fonts/subset-false.woff2') format('woff2'),
+        url('fonts/subset-false.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Khand';
+    src: url('fonts/subset-Khand-Regular.woff2') format('woff2'),
+        url('fonts/subset-Khand-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Khand';
+    src: url('fonts/subset-false.woff2') format('woff2'),
+        url('fonts/subset-false.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'false';
+    src: url('fonts/subset-false.woff2') format('woff2'),
+        url('fonts/subset-false.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Khand';
+    src: url('fonts/subset-false.woff2') format('woff2'),
+        url('fonts/subset-false.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Khand Variable';
+    src: url('fonts/subset-KhandVariable-Light.woff2') format('woff2'),
+        url('fonts/subset-KhandVariable-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Khand Variable';
+    src: url('fonts/subset-KhandVariable-Light.woff2') format('woff2'),
+        url('fonts/subset-KhandVariable-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Switzer';
+    src: url('fonts/subset-false.woff2') format('woff2'),
+        url('fonts/subset-false.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Switzer';
+    src: url('fonts/subset-false.woff2') format('woff2'),
+        url('fonts/subset-false.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Switzer';
+    src: url('fonts/subset-Switzer-Black.woff2') format('woff2'),
+        url('fonts/subset-Switzer-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Khand Variable';
+    src: url('fonts/subset-KhandVariable-Light.woff2') format('woff2'),
+        url('fonts/subset-KhandVariable-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Switzer';
+    src: url('fonts/subset-Switzer-BlackItalic.woff2') format('woff2'),
+        url('fonts/subset-Switzer-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Switzer';
+    src: url('fonts/subset-false.woff2') format('woff2'),
+        url('fonts/subset-false.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Switzer';
+    src: url('fonts/subset-false.woff2') format('woff2'),
+        url('fonts/subset-false.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'false';
+    src: url('fonts/subset-false.woff2') format('woff2'),
+        url('fonts/subset-false.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Switzer';
+    src: url('fonts/subset-Switzer-Bold.woff2') format('woff2'),
+        url('fonts/subset-Switzer-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'false';
+    src: url('fonts/subset-false.woff2') format('woff2'),
+        url('fonts/subset-false.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: optional;
+}
+
